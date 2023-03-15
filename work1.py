@@ -19,7 +19,7 @@ counti = 0
 for i in rand_list:
     if i == 0:
         counti += 1
-
+        
 countj = 0
 
 for j in rand_list:
